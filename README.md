@@ -9,7 +9,6 @@ To consolidate the previous paragraph, the map and the characters users can crea
 As an artist, I need to hightlight that AI will not be used for the art creation, such as: map, characters, music, et cetera. As a programmer, I find imposible not to use AI, but I'll reduce the usage and search in Internet, webs or forums, or not use it at all, this will be finally said when the videogame will be published.
 
 ### App features
-
 - Pomodoro or Timer
 - Minimalist To-Do List
 - Lo-Fi and whimsical music
@@ -35,3 +34,9 @@ As an artist, I need to hightlight that AI will not be used for the art creation
 - Rols (user, admin)
 - Version control in a remote repository
 - Testing
+
+### Tools
+- **Github:** for remote control version
+- **Aseprite:** for the pixelart design
+- **Beepbox:** for creating the music
+- 
