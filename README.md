@@ -39,4 +39,9 @@ As an artist, I need to hightlight that AI will not be used for the art creation
 - **Github:** for remote control version
 - **Aseprite:** for the pixelart design
 - **Beepbox:** for creating the music
-- 
+- **Godot:** for creating the videogame
+
+- Why Godot? It suits perfectly for a 2D videogame, it an intuitive and open source game engine.
+
+### Process
+  The process of the creation of all the videogame will be recorded and upload to YouTube in [@lilpxndx4](https://www.youtube.com/@lilpxndx4) from the streams in twitch with the same name. While in [@paolafucheng](https://www.youtube.com/@paolafucheng) will be posted the recaps and shorter versions.
